@@ -1,3 +1,5 @@
+<img src="./banner.png"></img>
+
 # 💫 Sobre:
 Atualmente, dedico meu tempo ao domínio do ecossistema React.js e TypeScript, transformando conceitos de design em código limpo e funcional. Meu objetivo é aplicar a lógica de programação para resolver problemas reais e entregar a melhor experiência possível ao usuário final.
 
